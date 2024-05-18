@@ -1,4 +1,5 @@
-<h1>Hi, I'm Halgah! Dedicated SOC/ Cybersecurity Analyst <br/><a href="https://github.com/hgregnau">Programmer</a>, <a href="https://www.linkedin.com/in/hgregorynau/">Cybersecurity Professional</a>, </h1>
+<h1>Hi, I'm Halgah! 
+  <br/><a href="https://www.linkedin.com/in/hgregorynau/"> SOC / Cybersecurity Professional</a>, </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
